@@ -13,6 +13,6 @@ class Program
 
          Console.WriteLine($"O Antecessor  é {antecessor}.");
          Console.WriteLine($"O Seu Numero é  {numero}.");
-         Console.WriteLine($"O Antecessor  é {sucesor}.");
+         Console.WriteLine($"O Sucessor  é {sucesor}.");
     }
 }
