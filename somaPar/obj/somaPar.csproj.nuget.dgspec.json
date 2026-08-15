@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\somaPar.csproj": {}
+    "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\somaPar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\somaPar.csproj": {
+    "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\somaPar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\somaPar.csproj",
+        "projectUniqueName": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\somaPar.csproj",
         "projectName": "somaPar",
-        "projectPath": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\somaPar.csproj",
+        "projectPath": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\somaPar.csproj",
         "packagesPath": "C:\\Users\\GHABR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\obj\\",
+        "outputPath": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\somaPar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GHABR\\AppData\\Roaming\\NuGet\\NuGet.Config"

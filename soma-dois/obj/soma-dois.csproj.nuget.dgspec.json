@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\soma-dois.csproj": {}
+    "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\soma-dois.csproj": {}
   },
   "projects": {
-    "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\soma-dois.csproj": {
+    "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\soma-dois.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\soma-dois.csproj",
+        "projectUniqueName": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\soma-dois.csproj",
         "projectName": "soma-dois",
-        "projectPath": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\soma-dois.csproj",
+        "projectPath": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\soma-dois.csproj",
         "packagesPath": "C:\\Users\\GHABR\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\obj\\",
+        "outputPath": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\soma-dois\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GHABR\\AppData\\Roaming\\NuGet\\NuGet.Config"

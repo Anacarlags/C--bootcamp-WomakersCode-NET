@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soma-dois")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e947adb106bdd82976728cfbea4e09a463ec63f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d7f9da77c05df0442055adaefe64d13d3a8f59a")]
 [assembly: System.Reflection.AssemblyProductAttribute("soma-dois")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soma-dois")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

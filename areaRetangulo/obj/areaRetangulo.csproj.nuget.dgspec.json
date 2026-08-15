@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\areaRetangulo.csproj": {}
+    "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\areaRetangulo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\areaRetangulo.csproj": {
+    "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\areaRetangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\areaRetangulo.csproj",
+        "projectUniqueName": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\areaRetangulo.csproj",
         "projectName": "areaRetangulo",
-        "projectPath": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\areaRetangulo.csproj",
+        "projectPath": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\areaRetangulo.csproj",
         "packagesPath": "C:\\Users\\GHABR\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\obj\\",
+        "outputPath": "C:\\Users\\GHABR\\Documents\\Ana Carla de Lima\\csharp_Projects_Bootcamp\\Modulo_4\\areaRetangulo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GHABR\\AppData\\Roaming\\NuGet\\NuGet.Config"
