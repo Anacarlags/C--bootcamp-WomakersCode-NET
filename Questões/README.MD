@@ -20,9 +20,3 @@ Coleção de exercícios práticos e algoritmos desenvolvidos em C# (.NET).
 | **Contagem Regressiva** | Laço decrescente de 50 até 1 | [Acessar](./regressiva/) |
 
 ---
-
-## 🚀 Como Executar os Projetos
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Anacarlags/SEU-REPOSITORIO.git](https://github.com/Anacarlags/SEU-REPOSITORIO.git)
