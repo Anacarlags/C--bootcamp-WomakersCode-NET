@@ -1,0 +1,6 @@
+# Arquivo .gitignore
+bin/
+obj/
+*.user
+.vscode/
+.vs/
