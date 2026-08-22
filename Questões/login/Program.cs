@@ -1,16 +1,15 @@
 ﻿using System;
 
 class Login
-{
-    static void Main()
-    {// Dados corretos cadastrados no sistema
+{ static void Main()
+    {// Aqui eu optei por já definir o login e senha
         string usuarioCorreto = "admin";
         string senhaCorreta = "12345678";
 
         Console.WriteLine("=== TELA DE LOGIN ===");
 
         // Pede o nome de usuário
-        Console.Write("Digite o usuário: ");
+        Console.Write("Digite o usuário Cadastrado: ");
         string usuarioDigitado = Console.ReadLine();
 
         // Pede a senha
